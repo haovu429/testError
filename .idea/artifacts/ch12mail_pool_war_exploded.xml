@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="ch12mail_pool:war exploded">
-    <output-path>$PROJECT_DIR$/target/ch12mail_pool-1.0-SNAPSHOT</output-path>
+    <output-path>$PROJECT_DIR$/target/testError</output-path>
     <properties id="maven-jee-properties">
       <options>
         <exploded>true</exploded>
@@ -16,7 +16,7 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/target/ch12mail_pool-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/target/testError/META-INF/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="ch12mail_pool/web/Web" />
     </root>
